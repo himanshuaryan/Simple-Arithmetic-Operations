@@ -4,4 +4,4 @@
 <br>
 For fun
 <br>
-Author : Himanshu Aryan</p>
+Author : <b>Himanshu Aryan</b></p>
